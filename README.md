@@ -10,6 +10,7 @@ Articles, papers, posts which are worth reading in the fields of AI, ML, DL, CV,
 - [Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](https://cs.stanford.edu/~quocle/tutorial1.pdf)
 - [Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
 - [Videos and Descriptions (courtesy of Gaurav Trivedi)](https://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/)
+- [An Intuitive Explanation of Connectionist Temporal Classification](https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c)
 
 ### Misc
 - [Latex Guides](https://www.youtube.com/playlist?list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp)
