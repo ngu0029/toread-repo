@@ -12,6 +12,7 @@ Articles, papers, posts which are worth reading in the fields of AI, ML, DL, CV,
 - [Videos and Descriptions (courtesy of Gaurav Trivedi)](https://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/)
 - [An Intuitive Explanation of Connectionist Temporal Classification](https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c)
 - [Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) ## [Blog](https://cs.stanford.edu/people/karpathy/) ## [Search and sort through ~30,000 Arxiv papers on Machine Learning](http://www.arxiv-sanity.com/)
+- [Sequence Modeling With CTC](https://distill.pub/2017/ctc/)
 
 ### Misc
 - [Latex Guides](https://www.youtube.com/playlist?list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp)
