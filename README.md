@@ -17,7 +17,7 @@ Articles, papers, posts which are worth reading in the fields of AI, ML, DL, CV,
 
 ### TF
 - [Complete code examples for Machine Translation with Attention, Image Captioning, Text Generation, and DCGAN implemented with tf.keras and eager execution](https://medium.com/tensorflow/complete-code-examples-for-machine-translation-with-attention-image-captioning-text-generation-51663d07a63d)
-- [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
+- [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs [*android app*]](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
 - [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e)
 - [Training and Serving ML models with tf.keras (to predict labels for satellite images of the Amazon forest)[*tf.data introduction*]](https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27)
 
