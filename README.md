@@ -5,7 +5,6 @@ Articles, papers, posts which are worth reading in the fields of AI, ML, DL, CV,
 
 ### CNN, RNN and LSTM
 - [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
-- [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)
 - [Le Viet Quoc talks about RNN on sequence learning](https://www.youtube.com/watch?v=3-JKvP7eBXc)
 - [Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](https://cs.stanford.edu/~quocle/tutorial1.pdf)
 - [Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
