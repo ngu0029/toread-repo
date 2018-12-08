@@ -4,6 +4,7 @@ Articles, papers, posts which are worth reading in the fields of AI, ML, DL, CV,
 - [Doing AI with less Data](https://www.cinnamonailabs.com/single-post/2018/10/02/Doing-AI-with-less-Data)
 
 ### CNN, RNN and LSTM
+- [A Critical Review of Recurrent Neural Networks for Sequence Learning](https://arxiv.org/pdf/1506.00019.pdf)
 - [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 - [Le Viet Quoc talks about RNN on sequence learning](https://www.youtube.com/watch?v=3-JKvP7eBXc)
 - [Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](https://cs.stanford.edu/~quocle/tutorial1.pdf)
