@@ -25,4 +25,5 @@ Articles, papers, posts which are worth reading in the fields of AI, ML, DL, CV,
 - [Training and Serving ML models with tf.keras (to predict labels for satellite images of the Amazon forest)[*tf.data introduction*]](https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27)
 
 ### Misc
+- [Can an AI startup use TensorFlow or better to create own tools?](https://www.quora.com/Can-an-AI-startup-use-TensorFlow-or-better-to-create-own-tools)
 - Latex Guides [1](https://www.youtube.com/playlist?list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) - [2](https://www.ieee.org/conferences/publishing/templates.html)
